@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Anomaly detection, machine learning. 
+bio: My research interests include Anomaly detection, machine learning.
 
 interests:
-- Machine Learning
 - Anomaly Detection
+- Machine Learning
 - Data Science
 
 education:
@@ -67,4 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Pratyush Kumar Deka is a professor of School of Computing Science & Engineering at Galgotias University, Greater Noida, India. His research interests include anomaly detection, machine learning and data science. He is currently worling on evaluating convolutional and recurrent architectures for temporal modelling.
+Hey folks! Welcome to my home page. I am an Assistant Professor at the School of Computer Science & Engineering at Galgotias University, Greater Noida, India.
+
+My research interests include anomaly detection, machine learning and data science. I am currently working on evaluating convolutional and recurrent architectures for temporal modelling.
